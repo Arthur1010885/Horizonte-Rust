@@ -75,12 +75,6 @@
   <a href="https://github.com/horizon-rust/horizon/graphs/contributors"><img src="https://contrib.rocks/image?repo=horizon-rust/horizon&max=72&columns=12" alt="Everyone who has contributed to Horizon"></a>
 </p>
 
-<p align="center">
-  <a href="docs/native-client.md#run-from-a-checkout"><b>Build guide</b></a> ·
-  <a href="CONTRIBUTING.md"><b>Contributing</b></a> ·
-  <a href="GOVERNANCE.md"><b>Governance</b></a> ·
-  <a href="https://discord.gg/playhorizon"><b>Discord</b></a>
-</p>
 
 <sub>Horizon is released under the [MIT licence](LICENSE) for the project's original work; dependencies keep their own licences, see the [notices](THIRD_PARTY_NOTICES.md). Founded by [Ludovic Marie](https://lu4ovic.com) and built by the Horizon Team and [its contributors](https://github.com/horizon-rust/horizon/graphs/contributors). You can support it on [GitHub Sponsors](https://github.com/sponsors/ludovic111).</sub>
 
